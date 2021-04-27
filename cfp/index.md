@@ -16,7 +16,7 @@ FAccTRec stands for Fairness, Accountability and Transparency in Recommender Sys
 - **Fairness:** what might ‘fairness’ mean in the context of recommendation? How could a recommender be unfair, and how could we measure such unfairness? How can we design systems to address specific fairness-related harms to users, providers, or other stakeholders?
 - **Accountability:** to whom, and under what standard, should a recommender system be accountable? How can or should it and its operators be held accountable? What harms should such accountability be designed to prevent?
 - **Transparency:** what is the value of transparency in recommendation, and how might it be achieved? How might it trade off with other important concerns?
-- **Compliance:** how should algorithms and especially recommendation algorithms be designed to adhere to the laws or regulations, such as the EU GDPR, the IEEE EAD, or the UK Data Ethics Framework? How should data collection be rethought to meet those new privacy standards ? How to meet the requirements in terms of transparency and explainability of algorithmic decisions.
+- **Compliance:** how should algorithms and especially recommendation algorithms be designed to adhere to the laws or regulations, such as the EU GDPR, the IEEE EAD, or the UK Data Ethics Framework? How should data collection be rethought to meet those new privacy standards? How to meet the requirements in terms of transparency and explainability of algorithmic decisions.
 - **Safety:** how can a recommender system distort users’ opinions? what is required to be resilient to such a distortion? What is a proper treatment of private or sensitive information when making recommendations?
 
 ## Submission Guidelines
@@ -27,7 +27,7 @@ Manuscripts must be submitted through EasyChair (link forthcoming) and will be r
 
 ### Position Papers
 
-Position papers address one or more of the above themes, or practical issues in building responsible recommendations. These could be both research systems or production systems in industry. The number of pages should be limited to three (3) pages in the ACM manuscript format and two (2) pages in the ACM sigconf format, not including references. You can omit the abstract in the article.
+Position papers address one or more of the above themes, or practical issues in building responsible recommendations. These could be either research systems or production systems in industry. The number of pages should be limited to three (3) pages in the ACM manuscript format and two (2) pages in the ACM sigconf format, not including references. You can omit the abstract in the article.
 
 For the 2021 workshop, we are particularly interested in position papers that reflect on the development of this space over the last 5 years: what is different about the responsible recommendation space now from when we had the first workshop in 2017? Where should the field go next? What impact has this research had on the broader field?
 
