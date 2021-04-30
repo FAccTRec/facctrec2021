@@ -17,14 +17,13 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## Important Dates
 
-* TBA: Abstract registration deadline
-* TBA: Paper submission deadline
-* TBA: Author notification
-* TBA: Final version upload
-* 2021-09-25 or 2021-10-01: Workshop
+- Paper submission deadline: July 29th, 2021
+- Author notification: August 21st, 2021
+- Final version upload: September 4th, 2021
+= 2021-09-25 or 2021-10-01: Workshop
 
 TIMEZONE: Anywhere On Earth
 
 ## FAccT Network
 
-The FAccTRec 2021 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines.
+<!-- The FAccTRec 2021 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines. -->
