@@ -53,8 +53,8 @@ Papers should be submitted from the EasyChair. Please do not forget to choose yo
 
 ## Important Dates
 
-Paper submission deadline: July 29th, 2021
-Author notification: August 21st, 2021
-Final version upload: September 4th, 2021
+- Paper submission deadline: July 29th, 2021
+- Author notification: August 21st, 2021
+- Final version upload: September 4th, 2021
 
 All deadlines in time zone  Anywhere On Earth
