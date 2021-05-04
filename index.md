@@ -13,6 +13,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2020-05-01: open [call for papers]({{ "/cfp/" | relative_url }})
 * 2020-04-09: opening this site
 
 ## Important Dates
@@ -24,6 +25,8 @@ The workshop will include presentations of these papers and discussion on a rese
 
 TIMEZONE: Anywhere On Earth
 
+<!-- 
 ## FAccT Network
 
-<!-- The FAccTRec 2021 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines. -->
+The FAccTRec 2021 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines.
+-->
