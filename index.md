@@ -17,10 +17,10 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## Important Dates
 
-- Paper submission deadline: July 29th, 2021
-- Author notification: August 21st, 2021
-- Final version upload: September 4th, 2021
-= 2021-09-25 or 2021-10-01: Workshop
+- 2021-07-29: Paper submission deadline
+- 2021-08-21: Author notification
+- 2021-09-04: Final version upload
+- 2021-09-25: Workshop
 
 TIMEZONE: Anywhere On Earth
 
