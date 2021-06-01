@@ -49,7 +49,7 @@ However, we will not limit to this format, and will accept one of the ACM sigcon
 
 ## Submission
 
-Papers should be submitted from the EasyChair. Please do not forget to choose your type of submission: Position or Research.
+Papers should be submitted from the [EasyChair](https://easychair.org/conferences/?conf=facctrec2021). Please do not forget to choose your type of submission: Position or Research.
 
 ## Important Dates
 
