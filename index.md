@@ -14,13 +14,13 @@ The workshop will include presentations of these papers and discussion on a rese
 ## What's New
 
 * 2021-07-29: extend submission deadline until Aug. 2
-* 2021-06-02: open [submission site](https://easychair.org/conferences/?conf=facctrec2021)
+* 2021-06-02: open submission site
 * 2021-05-01: open [call for papers]({{ "/cfp/" | relative_url }})
 * 2021-04-09: opening this site
 
 ## Important Dates
 
-- <s>2021-07-29</s> 2021-08-02: Paper submission deadline
+- <del style="color: gray;">2021-08-02</del>: Paper submission deadline
 - 2021-08-21: Author notification
 - 2021-09-04: Final version upload
 - 2021-09-25: Workshop
