@@ -23,7 +23,7 @@ FAccTRec stands for Fairness, Accountability and Transparency in Recommender Sys
 
 We encourage submissions in the above topics. No official proceedings will be published, because the focus of this workshop is discussion about the directions to build and manage responsible recommender systems and to provide feedback on early-stage research. All accepted papers manuscripts will be expected to be posted on arXiv.org by the authors, and an arXiv Index will index the accepted papers. We allow manuscripts that have already published or that are currently submitted to another venue, so long as arXiv publication is compatible with that venue’s requirements; already-published manuscripts should be accompanied by a cover abstract justifying their contribution specifically to FAccTRec.
 
-Manuscripts must be submitted through EasyChair (link forthcoming) and will be reviewed by a program committee. The review process is a single-blind, the authors names do not need to be anonymized. Presentations will be held in an oral or a poster style.
+Manuscripts must be submitted through EasyChair and will be reviewed by a program committee. The review process is a single-blind, the authors names do not need to be anonymized. Presentations will be held in an oral or a poster style.
 
 ### Position Papers
 
@@ -53,9 +53,9 @@ Papers should be submitted from the [EasyChair](https://easychair.org/conference
 
 ## Important Dates
 
-- Paper submission deadline: <s>July 29th, 2021</s> August 2, 2021
-- Author notification: August 21st, 2021
-- Final version upload: September 4th, 2021
-- Workshop date: September 25th, 2021 (full day)
+- <del style="color: gray;">2021-08-02</del>: Paper submission deadline
+- 2021-08-21: Author notification
+- 2021-09-04: Final version upload
+- 2021-09-25: Workshop
 
 All deadlines in time zone  Anywhere On Earth
