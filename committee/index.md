@@ -29,4 +29,20 @@ permlink: /committee/
 ## Program Committee
 {:style="clear: both"}
 
-TBA
+* Alex	Beutel	(Google)
+* Ana-Andreea	Stoica	(Columbia University)
+* Aneseh	Alvanpour	(University of Louisville)
+* Bart	Knijnenburg	(Clemson University)
+* Benjamin	Fields	(BBC News)
+* Chirag	Shah	(University of Washington)
+* Christo	Wilson	(Northeastern University)
+* Daniel	Kluver	(University of Minnesota)
+* Dimitris	Paraschakis	(Malmo University)
+* Henriette	Cramer	(Spotify)
+* Ke	Yang	(New York University)
+* Ludovico	Boratto	(University of Cagliari)
+* Meike	Zehlike	(Max Planck Institute for Software Systems)
+* Mirko	Marras	(École Polytechnique Fédérale de Lausanne ‐ EPFL)
+* Piotr	Sapiezynski	(Northeastern University)
+* Sirui	Yao	(Google)
+
