@@ -54,8 +54,8 @@ Papers should be submitted from the [EasyChair](https://easychair.org/conference
 ## Important Dates
 
 - <del style="color: gray;">2021-08-02</del>: Paper submission deadline
-- 2021-08-21: Author notification
-- 2021-09-04: Final version upload
+- <del style="color: gray;">2021-08-21</del>: Author notification
+- <del style="color: gray;">2021-09-04</del>: Final version upload
 - 2021-09-25: Workshop
 
 All deadlines in time zone  Anywhere On Earth
