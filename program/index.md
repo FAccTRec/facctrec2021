@@ -10,7 +10,7 @@ permlink: /program/
 
 Please note that all the long papers have 10 minutes for presentation and 5 minutes for Q&A. Short papers have 5 minutes for presentation and 2 minutes for Q&A.
 
-## Session 1 (16:00 -- 16:45, CEST)
+## Session 1 (16:00 -- 16:45, CEST (GMT+2))
 
 
 * Recommendation Fairness: From Static to Dynamic (long)
