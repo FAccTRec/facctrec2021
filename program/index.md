@@ -4,7 +4,7 @@ layout: page
 permlink: /program/
 ---
 
-## Welcome & Panel (15:00 -- 15:45, CEST)
+## Welcome & Panel (15:00 -- 15:45, CEST (GMT+2))
 
 ## Discussion (15 mins)
 
@@ -25,7 +25,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 	* Charles Evans and Atoosa Kasirzadeh
 	* [article](https://arxiv.org/abs/2109.04083)
 
-## Session 2 (16:45 -- 17:30, CEST)
+## Session 2 (16:45 -- 17:30, CEST (GMT+2))
 
 
 * The Stereotyping Problem in Collaboratively Filtered Recommender Systems (long)
@@ -41,7 +41,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 	* [article]()
 
 
-## Session 3 (17:30 -- 18:15, CEST)
+## Session 3 (17:30 -- 18:15, CEST (GMT+2))
 
 * Recommender Systems in the EU: from Responsibility to Regulation? (long)
 	* Sebastian Schwemer
