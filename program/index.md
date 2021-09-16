@@ -6,7 +6,7 @@ permlink: /program/
 
 ## Welcome & Panel (15:00 -- 15:45, CEST (GMT+2))
 
-## *15 mins - discussion & short break*
+### *15 mins - discussion & short break*
 
 Please note that all the long papers have 10 minutes for presentation and 5 minutes for Q&A. Short papers have 5 minutes for presentation and 2 minutes for Q&A.
 
@@ -25,7 +25,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 	* Charles Evans and Atoosa Kasirzadeh
 	* [article](https://arxiv.org/abs/2109.04083)
 
-## *30 min - discussion & long break*
+### *30 min - discussion & long break*
 
 ## Session 2 (17:15 -- 18:00, CEST (GMT+2))
 
@@ -41,7 +41,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 	* Shiri Dori-Hacohen, Roberto Montenegro, Fabricio Murai, Scott Hale, Keen Sung, Michela Blaine and Jennifer Edwards-Johnson
 	* [article]()
 
-## *15 mins - discussion & short break*
+### *15 mins - discussion & short break*
 
 ## Session 3 (18:15 -- 19:00, CEST (GMT+2))
 
