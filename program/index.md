@@ -25,7 +25,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 	* Charles Evans and Atoosa Kasirzadeh
 	* [article](https://arxiv.org/abs/2109.04083)
 
-### *30 min - discussion & long break*
+### *30 mins - discussion & long break*
 
 ## Session 2 (17:15 -- 18:00, CEST (GMT+2))
 
