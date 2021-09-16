@@ -6,7 +6,7 @@ permlink: /program/
 
 ## Welcome & Panel (15:00 -- 15:45, CEST)
 
-## Discussion & Break
+## Discussion & Break (15 mins)
 
 
 ## Session 1 (16:00 -- 16:45, CEST)
