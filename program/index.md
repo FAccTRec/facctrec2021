@@ -66,7 +66,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 	* [article](https://arxiv.org/abs/2106.11218) 
 
 
-### Closing
+### Closing Remarks
 
 
 
