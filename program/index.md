@@ -47,19 +47,17 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 	* Sebastian Schwemer
 	* [article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923003)
 	
-
-* An Adaptive Boosting Technique to Mitigate Popularity Bias in Recommender System (short)
-	* Ajay Gangwar and Shweta Jain
-	* [article](http://arxiv.org/abs/2109.05677)
-
 * Tag-boosted Explainable Matrix Factorization Methods for Multi-style Explanations (short)
 	* Olurotimi Seton, Pegah Sagheb Haghighi, Mohammed Alshammari and Olfa Nasraoui
 	* [article]()
-
+	
 * FaiREO: User Group Fairness in Course Recommendation (short)
 	* Agoritsa Polyzou, Maria Kalantzi and George Karypis
 	* [article](https://arxiv.org/abs/2109.05931)
 
+* An Adaptive Boosting Technique to Mitigate Popularity Bias in Recommender System (short)
+	* Ajay Gangwar and Shweta Jain
+	* [article](http://arxiv.org/abs/2109.05677)
 	
 * Data Optimization for a Deep Learning Recommender System (short)
 	* Martin Tegner, Gustav Hertz, Sandhya Sachidanandan, Balazs Toth and Emil Jorgensen
