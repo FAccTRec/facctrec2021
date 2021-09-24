@@ -14,4 +14,3 @@ permlink: /panel/
 
 * [Luca Belli](https://www.linkedin.com/in/lbelli/) (Twitter)
 * [Asia Biega](https://asiabiega.github.io/) (Max Planck Institute)
-* [Polina Proutskova](https://www.linkedin.com/in/polina-proutskova-522814191/) (BBC)
