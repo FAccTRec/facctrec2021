@@ -6,6 +6,10 @@ permlink: /program/
 
 ## Welcome & Panel (15:00 -- 15:45, CEST (GMT+2))
 
+* Welcome
+* [Panel: Past and Next Steps for the FAccTRec]({{ "/panel/" | relative_url }})
+
+
 ### *15 mins - discussion & short break*
 
 Please note that all the long papers have 10 minutes for presentation and 5 minutes for Q&A. Short papers have 5 minutes for presentation and 2 minutes for Q&A.

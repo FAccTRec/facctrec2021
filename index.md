@@ -13,6 +13,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2021-09-25: the workshop stats at 15:00 (CEST, UTC+2)
 * 2021-07-29: extend submission deadline until Aug. 2
 * 2021-06-02: open submission site
 * 2021-05-01: open [call for papers]({{ "/cfp/" | relative_url }})
