@@ -11,6 +11,18 @@ The importance of these problems are now increasing due to the empowerment of so
 In this workshop, we welcome research and position papers about ethical, social, and legal issues raised by the development and the use of recommendation.
 The workshop will include presentations of these papers and discussion on a research agenda for socially responsible recommendation.
 
+## Instruction to attend virtual workshop
+
+1. [Register RecSys 2021 conference](https://recsys.acm.org/recsys21/registration/)
+
+* You will receive a password of the RecSys Hub.
+
+2. [Access RecSys Hub](https://www.recsyshub.org/)
+
+* After login, select "Agenda" menu and the date "Saturday 25 Sept".
+* Find the "FAccTRec" from a list of workshops, and click Zoom button.
+* You will be able to join the Zoom of the workshop.
+
 ## What's New
 
 * 2021-09-25: the workshop stats at 15:00 (CEST, UTC+2)
