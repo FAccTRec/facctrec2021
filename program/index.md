@@ -43,7 +43,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 
 * Fairness via AI: Bias Reduction in Medical Information (long)
 	* Shiri Dori-Hacohen, Roberto Montenegro, Fabricio Murai, Scott Hale, Keen Sung, Michela Blaine and Jennifer Edwards-Johnson
-	* [article]()
+	* [article](https://arxiv.org/abs/2109.02202)
 
 ### *15 mins - discussion & short break*
 
