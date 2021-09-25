@@ -39,7 +39,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 
 * Searching for Representation: A sociotechnical audit of googling for members of U.S. Congress (long)
 	* Emma Lurie and Deirdre Mulligan
-	* [article]()
+	* [article](http://arxiv.org/abs/2109.07012)
 
 * Fairness via AI: Bias Reduction in Medical Information (long)
 	* Shiri Dori-Hacohen, Roberto Montenegro, Fabricio Murai, Scott Hale, Keen Sung, Michela Blaine and Jennifer Edwards-Johnson
