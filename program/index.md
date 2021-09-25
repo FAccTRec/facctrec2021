@@ -6,7 +6,7 @@ permlink: /program/
 
 ## Welcome & Panel (15:00 -- 15:45, CEST (GMT+2))
 
-* Welcome
+* [Welcome](welcome.pdf)
 * [Panel: Past and Next Steps for the FAccTRec]({{ "/panel/" | relative_url }})
 
 
