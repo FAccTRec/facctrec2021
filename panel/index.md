@@ -14,3 +14,4 @@ permlink: /panel/
 
 * [Luca Belli](https://www.linkedin.com/in/lbelli/) (Twitter)
 * [Asia Biega](https://asiabiega.github.io/) (Max Planck Institute)
+* [Michael D. Ekstrand](https://md.ekstrandom.net/) (Boise State University)
