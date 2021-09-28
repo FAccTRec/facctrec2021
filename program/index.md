@@ -55,7 +55,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 	
 * Tag-boosted Explainable Matrix Factorization Methods for Multi-style Explanations (short)
 	* Olurotimi Seton, Pegah Sagheb Haghighi, Mohammed Alshammari and Olfa Nasraoui
-	* [article]()
+	* [article](10.13140/RG.2.2.19403.92963)
 	
 * FaiREO: User Group Fairness in Course Recommendation (short)
 	* Agoritsa Polyzou, Maria Kalantzi and George Karypis
