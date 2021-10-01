@@ -23,7 +23,7 @@ Please note that all the long papers have 10 minutes for presentation and 5 minu
 
 * Estimating and Penalizing Preference Shifts in Recommender Systems (long)
 	* Micah Carroll, Dylan Hadfield-Menell, Stuart Russell and Anca Dragan
-	* [article]()
+	* [article](https://drive.google.com/file/d/1mq2dW9GWNmhZkqyBSy0S0FgSkVrRBjcS/view)
 	
 * User Tampering in Reinforcement Learning Recommender Systems(long)
 	* Charles Evans and Atoosa Kasirzadeh
