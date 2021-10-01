@@ -4,6 +4,11 @@ layout: page
 permlink: /
 ---
 
+<div style="color: red; text-align: center; margin-bottom: 5ex;">
+About 30 attendees have joined online and the workshop has held successfully.
+Thanks for all presenters and attendees.
+</div>
+
 Due to the pandemic of the COVID-19, the main conference RecSys 2021 plan to be held in an online and offline hybrid form.
 
 The 4th FAccTRec Workshop on Responsible Recommendation at [RecSys 2021](https://recsys.acm.org/recsys21/) is a venue for discussing problems of social responsibility in building, maintaining, evaluating, and studying recommender systems, including but not limited to issues of fairness, accountability, and transparency (FAccT).
