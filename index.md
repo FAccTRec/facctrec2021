@@ -6,6 +6,7 @@ permlink: /
 
 <div style="color: red; text-align: center; margin-bottom: 5ex;">
 About 30 attendees have joined online and the workshop has held successfully.
+
 Thanks for all presenters and attendees.
 </div>
 
