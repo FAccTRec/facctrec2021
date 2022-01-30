@@ -4,6 +4,8 @@ layout: page
 permlink: /program/
 ---
 
+* [Presentation videos](https://youtu.be/LVIIKGeKV0Y)
+
 ## Welcome & Panel (15:00 -- 15:45, CEST (GMT+2))
 
 * [Welcome](welcome.pdf)
